@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  testRUI:
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.29.0-0'
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.7.0 < 2.9.0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-08-12T21:40:55.160540113Z"
+    description: testRUI plugin
+    digest: 8e842f5bff0756a32192589a3527cb4407c311461eb6bd010d4a71d00f5e4472
+    name: testRUI
+    type: application
+    urls:
+    - assets/testRUI/testRUI-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-12T21:40:55.159494809Z"
