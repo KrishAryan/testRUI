@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-08-12T21:40:55.160540113Z"
+    created: "2024-08-19T18:23:37.757396773Z"
     description: testRUI plugin
-    digest: 8e842f5bff0756a32192589a3527cb4407c311461eb6bd010d4a71d00f5e4472
+    digest: 493db273e261c6d467aa84c8064633dad117f4060218a85672425143f7f7564b
     name: testRUI
     type: application
     urls:
     - assets/testRUI/testRUI-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-12T21:40:55.159494809Z"
+generated: "2024-08-19T18:23:37.757073688Z"
